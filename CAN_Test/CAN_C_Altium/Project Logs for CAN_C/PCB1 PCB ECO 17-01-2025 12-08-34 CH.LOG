@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=CANH Pin=JP5-1
+Removed Pin From Net: NetName=CANL Pin=JP5-2
+Removed Pin From Net: NetName=CANH Pin=R7-1
+Removed Pin From Net: NetName=CANL Pin=R8-2
+Added Pin To Net: NetName=CANL Pin=B1-6
+Added Pin To Net: NetName=CANH Pin=B1-7
+Added Pin To Net: NetName=CANH Pin=R7-2
+Added Pin To Net: NetName=CANL Pin=R8-1
+Added Pin To Net: NetName=CAN_H Pin=JP5-1
+Added Pin To Net: NetName=CAN_H Pin=R7-1
+Added Net: Name=CAN_H
+Added Pin To Net: NetName=CAN_L Pin=JP5-2
+Added Pin To Net: NetName=CAN_L Pin=R8-2
+Added Net: Name=CAN_L
+Added Room: Name=Sheet1

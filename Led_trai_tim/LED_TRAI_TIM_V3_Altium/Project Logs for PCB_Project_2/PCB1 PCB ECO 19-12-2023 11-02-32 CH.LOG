@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+3.3V Pin=L25-1
+Removed Pin From Net: NetName=NetL25_2 Pin=L25-2
+Removed Pin From Net: NetName=LED16 Pin=U1-15
+Added Pin To Net: NetName=+3.3V Pin=L25-1
+Added Pin To Net: NetName=NetL25_2 Pin=L25-2

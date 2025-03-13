@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=  NewDesignator=L31
+Added Component: Designator=L25(LED-0805-Red)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LED 0805 Màu Ð? (Red)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=L25-1
+Added Pin To Net: NetName=NetL25_2 Pin=L25-2
+Added Member To Class: ClassName=Sheet1 Member=Component L25 LED 0805
+Added Room: Name=Sheet1

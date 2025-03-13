@@ -1,0 +1,5 @@
+Added Component: Designator=M1(MODULE-TP4056)
+Added Pin To Net: NetName=GND Pin=M1-3
+Added Pin To Net: NetName=+5V Pin=M1-4
+Added Member To Class: ClassName=Sheet1 Member=Component L25 LED 0805
+Added Member To Class: ClassName=Sheet1 Member=Component M1 MODULE-TP4056

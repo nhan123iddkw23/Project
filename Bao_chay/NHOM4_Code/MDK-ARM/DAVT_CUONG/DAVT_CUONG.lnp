@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"davt_cuong\startup_stm32f103xb.o"
+"davt_cuong\clcd.o"
+"davt_cuong\main.o"
+"davt_cuong\stm32f1xx_it.o"
+"davt_cuong\stm32f1xx_hal_msp.o"
+"davt_cuong\stm32f1xx_hal_gpio_ex.o"
+"davt_cuong\stm32f1xx_hal_adc.o"
+"davt_cuong\stm32f1xx_hal_adc_ex.o"
+"davt_cuong\stm32f1xx_hal.o"
+"davt_cuong\stm32f1xx_hal_rcc.o"
+"davt_cuong\stm32f1xx_hal_rcc_ex.o"
+"davt_cuong\stm32f1xx_hal_gpio.o"
+"davt_cuong\stm32f1xx_hal_dma.o"
+"davt_cuong\stm32f1xx_hal_cortex.o"
+"davt_cuong\stm32f1xx_hal_pwr.o"
+"davt_cuong\stm32f1xx_hal_flash.o"
+"davt_cuong\stm32f1xx_hal_flash_ex.o"
+"davt_cuong\stm32f1xx_hal_exti.o"
+"davt_cuong\stm32f1xx_hal_tim.o"
+"davt_cuong\stm32f1xx_hal_tim_ex.o"
+"davt_cuong\system_stm32f1xx.o"
+--strict --scatter "DAVT_CUONG\DAVT_CUONG.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "DAVT_CUONG.map" -o DAVT_CUONG\DAVT_CUONG.axf

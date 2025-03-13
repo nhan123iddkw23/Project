@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+5V Pin=M1-4
+Removed Pin From Net: NetName=+5V Pin=SW1-1
+Removed Pin From Net: NetName=+5V Pin=SW1-4
+Change Net Name : Old Net Name=+5V New Net Name=NetAMS1_3
+Added Pin To Net: NetName=+5V Pin=M1-4
+Added Pin To Net: NetName=+5V Pin=SW1-1
+Added Pin To Net: NetName=+5V Pin=SW1-4
+Added Net: Name=+5V
+Added Member To Class: ClassName=Sheet1 Member=Component M1 MODULE-TP4056
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 MSS22D18

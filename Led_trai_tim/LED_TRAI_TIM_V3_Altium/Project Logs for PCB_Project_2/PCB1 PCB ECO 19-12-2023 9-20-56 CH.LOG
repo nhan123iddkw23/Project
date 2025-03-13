@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetL25_1 Pin=L25-1
+Removed Pin From Net: NetName=LED28 Pin=L25-2
+Added Component: Designator=L25(LED-0805-Red)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LED 0805 Màu Ð? (Red)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL25_1 Pin=L25-1
+Added Pin To Net: NetName=LED28 Pin=L25-2

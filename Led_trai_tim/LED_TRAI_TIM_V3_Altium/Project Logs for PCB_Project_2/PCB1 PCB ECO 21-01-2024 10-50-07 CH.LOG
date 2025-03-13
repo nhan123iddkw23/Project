@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetBT1_2 Pin=BT1-2
+Removed Pin From Net: NetName=GND Pin=BT1-3
+Removed Pin From Net: NetName=GND Pin=BT2-2
+Removed Pin From Net: NetName=BUTTON Pin=BT2-3
+Change Component Footprint: Designator=BT1 Old Footprint=Nut Nhan 4 Chan SMD 6x6 New Footprint=BUTTON-3X3X1.5-4PIN
+Change Component Footprint: Designator=BT2 Old Footprint=Nut Nhan 4 Chan SMD 6x6 New Footprint=BUTTON-3X3X1.5-4PIN
+Change Component Comment : Designator=BT1 Old Comment=Nut Nhan 4 Chan SMD 6x6 New Comment=BUTTON-4PIN
+Change Component Comment : Designator=BT2 Old Comment=Nut Nhan 4 Chan SMD 6x6 New Comment=BUTTON-4PIN
+Change component parameters: Designator = "BT1" ("BT1"); Footprint = "Nut Nhan 4 Chan SMD 6x6"; UniqueID = "\ASXOFXFA" ("\ASXOFXFA")
+Change component parameters: Designator = "BT2" ("BT2"); Footprint = "Nut Nhan 4 Chan SMD 6x6"; UniqueID = "\CPIDXNBW" ("\CPIDXNBW")
+Added Component: Designator=SW1(MSS22D18 SMD)
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-3
+Added Pin To Net: NetName=BUTTON Pin=BT2-2
+Added Pin To Net: NetName=GND Pin=BT2-3
+Added Pin To Net: NetName=+5V Pin=SW1-1
+Added Pin To Net: NetName=+5V Pin=SW1-2
+Added Pin To Net: NetName=+5V Pin=SW1-4
+Added Pin To Net: NetName=+5V Pin=SW1-5
+Change Net Name : Old Net Name=NetBT1_2 New Net Name=NetBT1_3

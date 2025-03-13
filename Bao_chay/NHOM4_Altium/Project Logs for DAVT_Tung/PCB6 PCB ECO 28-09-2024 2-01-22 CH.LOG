@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=+5 Pin=JP1-1
+Removed Pin From Net: NetName=TXD Pin=JP1-2
+Removed Pin From Net: NetName=RXD Pin=JP1-3
+Removed Pin From Net: NetName=GND Pin=JP1-4
+Removed Pin From Net: NetName=+5 Pin=JP3-1
+Removed Pin From Net: NetName=GND Pin=JP3-2
+Removed Pin From Net: NetName=SDA Pin=JP3-3
+Removed Pin From Net: NetName=SCL Pin=JP3-4
+Removed Member From Class: ClassName=Sheet7 Member=JP1
+Removed Member From Class: ClassName=Sheet7 Member=JP3
+Change Component Comment : Designator=JP2 Old Comment=JP 1x3 2.54 New Comment=Cam bien lua
+Added Component: Designator=H1(XH2.54M-4)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=H2(XH2.54M-4)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=LCD1(LCD1602)
+Add component (AddParameter): Name = "CHIP"; Value = "HD44780"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "67HZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NCC"; Value = "NSHOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Màn h?nh LCD 1602 Xanh Lá"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=H1-1
+Added Pin To Net: NetName=TXD Pin=H1-2
+Added Pin To Net: NetName=RXD Pin=H1-3
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Pin To Net: NetName=+5 Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=SDA Pin=H2-3
+Added Pin To Net: NetName=SCL Pin=H2-4
+Added Member To Class: ClassName=Sheet7 Member=Component H1 UART0
+Added Member To Class: ClassName=Sheet7 Member=Component H2 LCD_I2C
+Added Member To Class: ClassName=Sheet7 Member=Component LCD1 LCD1602 XL

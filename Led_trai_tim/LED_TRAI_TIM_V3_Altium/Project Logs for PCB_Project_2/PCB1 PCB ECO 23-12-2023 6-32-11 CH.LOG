@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=+3.3V Pin=L25-1
+Removed Pin From Net: NetName=NetL25_2 Pin=L25-2
+Added Component: Designator=L25(LED-0805-Red)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LED 0805 Màu Ð? (Red)"; VariantName = "[No Variations]"
+Added Component: Designator=L31(LED-0805-Blue)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002327"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LED 0805 Màu Xanh Dýõng (Blue)"; VariantName = "[No Variations]"
+Added Component: Designator=L32(LED-0805-Red)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LED 0805 Màu Ð? (Red)"; VariantName = "[No Variations]"
+Added Component: Designator=R34(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005792"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 0R"; VariantName = "[No Variations]"
+Added Component: Designator=R35(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005792"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=L25-1
+Added Pin To Net: NetName=NetL25_2 Pin=L25-2
+Added Pin To Net: NetName=+3.3V Pin=L31-1
+Added Pin To Net: NetName=+3.3V Pin=L32-1
+Added Pin To Net: NetName=LED31 Pin=R34-2
+Added Pin To Net: NetName=LED31 Pin=U1-13
+Added Net: Name=LED31
+Added Pin To Net: NetName=LED32 Pin=R35-2
+Added Pin To Net: NetName=LED32 Pin=U1-15
+Added Net: Name=LED32
+Added Pin To Net: NetName=NetL31_2 Pin=L31-2
+Added Pin To Net: NetName=NetL31_2 Pin=R34-1
+Added Net: Name=NetL31_2
+Added Pin To Net: NetName=NetL32_2 Pin=L32-2
+Added Pin To Net: NetName=NetL32_2 Pin=R35-1
+Added Net: Name=NetL32_2
+Added Member To Class: ClassName=Sheet1 Member=Component L25 LED 0805
+Added Member To Class: ClassName=Sheet1 Member=Component L31 LED 0805
+Added Member To Class: ClassName=Sheet1 Member=Component L32 LED 0805
+Added Member To Class: ClassName=Sheet1 Member=Component R34 330
+Added Member To Class: ClassName=Sheet1 Member=Component R35 330

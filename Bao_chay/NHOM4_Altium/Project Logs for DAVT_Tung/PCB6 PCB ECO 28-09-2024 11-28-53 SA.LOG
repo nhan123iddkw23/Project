@@ -1,0 +1,7 @@
+Added Component: Designator=JACK DC1(JACK DC 5.5)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=JACK DC1-1
+Added Pin To Net: NetName=GND Pin=JACK DC1-2
+Added Pin To Net: NetName=GND Pin=JACK DC1-3
+Added Member To Class: ClassName=Sheet7 Member=Component JACK DC1 JACK DC 5.5
+Added Room: Name=Sheet7
